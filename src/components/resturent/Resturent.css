@@ -1,0 +1,15 @@
+.contents{
+    background-color: black;
+    width: 75%;
+    height: 40%;
+}
+.contents h2{
+    color:hsl(0, 0%, 100%);
+    font-size: 30px;
+   padding-left: 40%;
+   padding-top: 10px;
+}
+.contents .text{
+    padding-left: 42%;
+    font-size: 15px;
+}
